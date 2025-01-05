@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📫 How to reach me **sushant.vikas@gmai.com**
+- 📫 How to reach me **sushant.vikas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
